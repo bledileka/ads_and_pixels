@@ -2,6 +2,18 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 weedmaps.com
+127.0.0.1 rndskittytor.com
+127.0.0.1 glersakr.com
+127.0.0.1 forgerylimit.com
+127.0.0.1 banquetunarmedgrater.com
+127.0.0.1 unseenreport.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 crossroaddividerecorded.com
+127.0.0.1 sandwichesinstinctive.com
+127.0.0.1 bw.boostog.net
+127.0.0.1 chromnius.download
+127.0.0.1 trackad.cz
 127.0.0.1 nxtpsh.top
 127.0.0.1 sagedeportflorist.com
 127.0.0.1 fearlesselevated.com
