@@ -2,6 +2,11 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 saumeechoa.com
+127.0.0.1 media.incues.com
+127.0.0.1 mypoweroffer.com
+127.0.0.1 incues.com
+127.0.0.1 www.browsewithgx.com
 127.0.0.1 byambipoman.com
 127.0.0.1 www.gameitlive.com
 127.0.0.1 addresseepaper.com
