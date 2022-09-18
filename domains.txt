@@ -1,0 +1,8 @@
+#
+# Domains included in malicious and invasive advertisments. Block all through hosts
+#
+
+127.0.0.1 saumeechoa.com
+127.0.0.1 www.gearbest.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 static.zdassets.com
