@@ -2,6 +2,21 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 smart.linkresearchtools.com
+127.0.0.1 nimilimigimi.com
+127.0.0.1 refutationtiptoe.com
+127.0.0.1 sagedeportflorist.com
+127.0.0.1 tracker-tds.info
+127.0.0.1 twnt1.rdtk.io
+127.0.0.1 reapinject.com
+127.0.0.1 linkresearchtools.com
+127.0.0.1 forgerylimit.com
+127.0.0.1 go.xlviiirdr.com
+127.0.0.1 www.arminius.io
+127.0.0.1 go.arminius.io
+127.0.0.1 grandsupple.com
+127.0.0.1 tracking.prtrackings.com
+127.0.0.1 tools-basket.com
 127.0.0.1 weedmaps.com
 127.0.0.1 rndskittytor.com
 127.0.0.1 glersakr.com
