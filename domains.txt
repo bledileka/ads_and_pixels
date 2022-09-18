@@ -2,6 +2,8 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 byambipoman.com
+127.0.0.1 www.gameitlive.com
 127.0.0.1 addresseepaper.com
 127.0.0.1 westats.dev
 127.0.0.1 radiancewoebun.com
