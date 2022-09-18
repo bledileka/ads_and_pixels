@@ -2,6 +2,11 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 nxtpsh.top
+127.0.0.1 sagedeportflorist.com
+127.0.0.1 fearlesselevated.com
+127.0.0.1 delivery.r2b2.io
+127.0.0.1 cousonelly.com
 127.0.0.1 saumeechoa.com
 127.0.0.1 www.gearbest.com
 127.0.0.1 www.googletagmanager.com
