@@ -2,6 +2,13 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 addresseepaper.com
+127.0.0.1 westats.dev
+127.0.0.1 radiancewoebun.com
+127.0.0.1 gypsyardently.com
+127.0.0.1 simplewebanalysis.com
+127.0.0.1 snugslackmakeup.com
+127.0.0.1 nlcrup.com
 127.0.0.1 smart.linkresearchtools.com
 127.0.0.1 nimilimigimi.com
 127.0.0.1 refutationtiptoe.com
