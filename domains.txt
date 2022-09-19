@@ -2,6 +2,8 @@
 # Domains included in malicious and invasive advertisments. Block all through hosts
 #
 
+127.0.0.1 teefuthe.com
+127.0.0.1 www.mysexymatches.com
 127.0.0.1 saumeechoa.com
 127.0.0.1 media.incues.com
 127.0.0.1 mypoweroffer.com
